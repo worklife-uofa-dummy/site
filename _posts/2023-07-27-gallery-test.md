@@ -9,7 +9,8 @@ categories:
 p {text-align: center;}
 
 .main-carousel {
-    max-height: 800px;
+    min-width: 500px;
+    width: 50%;
     margin-left: auto;
     margin-right: auto;
 }
