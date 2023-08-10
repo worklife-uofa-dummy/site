@@ -13,6 +13,8 @@ p {text-align: center;}
 }
 </style>
 
+Testing out the carousel. Audio removed.
+
 <div class="main-carousel" data-flickity='{ "autoPlay": true, "wrapAround": true, "fade": true, "prevNextButtons": false }'>
   <div class="carousel-cell">
      <img id="img_01" src="/site/assets/img/img_cindyJulaton_present.jpg" onmouseover="mouseON_01()" onmouseout="mouseOFF_01()"/>
