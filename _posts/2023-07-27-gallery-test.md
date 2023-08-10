@@ -7,6 +7,10 @@ categories:
 
 <style>
 p {text-align: center;}
+
+.main-carousel {
+    max-width: 800px;
+}
 </style>
 
 <div class="main-carousel" data-flickity='{ "autoPlay": true, "wrapAround": true, "fade": true, "prevNextButtons": false }'>
@@ -54,5 +58,4 @@ p {text-align: center;}
     img_03.src = "/site/assets/img/img_olivierGutknecht_present.jpg";
   }
 
-</script>
-</body>  
+</script> 
