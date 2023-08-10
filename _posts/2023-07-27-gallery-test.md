@@ -5,16 +5,27 @@ date: 2023-07-27
 categories:
 ---
 
-## Rotating gallery testing
+<style>
+p {text-align: center;}
+</style>
 
 <audio id="audio_01" src="/../assets/audio/audio_cindyJulaton.mp3"></audio>
 <audio id="audio_02" src="/../assets/audio/audio_joanneHall.mp3"></audio>
 <audio id="audio_03" src="/../assets/audio/audio_olivierGutknecht.mp3"></audio>
 
 <div class="main-carousel" data-flickity='{ "autoPlay": true, "wrapAround": true, "fade": true, "prevNextButtons": false }'>
-  <div class="carousel-cell"><img id="img_01" src="/../assets/img/img_cindyJulaton_present.jpg" onmouseover="playAudio_01()" onmouseout="pauseAudio_01()"></div>
-  <div class="carousel-cell"><img id="img_02" src="/../assets/img/img_joanneHall_present.jpg" onmouseover="playAudio_02()" onmouseout="pauseAudio_02()"></div>
-  <div class="carousel-cell"><img id="img_03" src="/../assets/img/img_olivierGutknecht_present.jpg" onmouseover="playAudio_03()" onmouseout="pauseAudio_03()"></div>
+  <div class="carousel-cell">
+     <img id="img_01" src="/../assets/img/img_cindyJulaton_present.jpg" onmouseover="playAudio_01()" onmouseout="pauseAudio_01()"/>
+     <p>Cindy Julaton</p>
+  </div>
+  <div class="carousel-cell">
+     <img id="img_02" src="/../assets/img/img_joanneHall_present.jpg" onmouseover="playAudio_02()" onmouseout="pauseAudio_02()"/>
+     <p>Joanne Paige Hall</p>
+  </div>
+  <div class="carousel-cell">
+     <img id="img_03" src="/../assets/img/img_olivierGutknecht_present.jpg" onmouseover="playAudio_03()" onmouseout="pauseAudio_03()"/>
+     <p>Olivier Gutknecht</p>
+  </div>
 </div>
 
 <script>
