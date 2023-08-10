@@ -15,8 +15,8 @@ p {text-align: center;}
 
 <div class="main-carousel" data-flickity='{ "autoPlay": true, "wrapAround": true, "fade": true, "prevNextButtons": false }'>
   <div class="carousel-cell">
-     <img id="img_01" src="/../assets/img/img_cindyJulaton_present.jpg" onmouseover="playAudio_01()" onmouseout="pauseAudio_01()"/>
-     <p>Cindy Julaton</p>
+     <img id="img_01" src="/site/assets/img/img_cindyJulaton_present.jpg" onmouseover="playAudio_01()" onmouseout="pauseAudio_01()"/>
+     <p>Cindy Julaton TEST</p>
   </div>
   <div class="carousel-cell">
      <img id="img_02" src="/../assets/img/img_joanneHall_present.jpg" onmouseover="playAudio_02()" onmouseout="pauseAudio_02()"/>
