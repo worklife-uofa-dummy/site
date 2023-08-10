@@ -9,11 +9,13 @@ categories:
 p {text-align: center;}
 
 .main-carousel {
-    max-width: 800px;
+    max-height: 800px;
+    margin-left: auto;
+    margin-right: auto;
 }
 </style>
 
-Testing out the carousel. Audio removed.
+Testing out the carousel. Audio on hover removed.
 
 <div class="main-carousel" data-flickity='{ "autoPlay": true, "wrapAround": true, "fade": true, "prevNextButtons": false }'>
   <div class="carousel-cell">
