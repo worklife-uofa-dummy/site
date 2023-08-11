@@ -26,7 +26,7 @@ p {text-align: center;}
 }
 </style>
 <div class="text">
-A second technical test of the gallery using JavaScript to randomly order images and their respective quotes when hovered. Refresh the page to get a new random ordering.
+A second technical test of the gallery using JavaScript to randomly order images and their respective quotes when hovered. This functionality will help avoid a situation where we emphasize particular people above everyone else. Refresh the page to get a new random ordering.
 </div>
 <script type="text/javascript">
     array_img = new Array();
