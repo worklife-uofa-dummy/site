@@ -16,7 +16,7 @@ p {text-align: center;}
 }
 </style>
 
-Testing out the carousel. Audio on hover removed.
+This is a technical test on a rotating carousel. It rotates automatically given enough time, and can also be 'flicked' through with the user's cursor or finger in the case of mobile. It can also be navigated using the dots along the bottom. Quotes on hover definitely need a different font, but the idea might be worth pursuing?
 
 <div class="main-carousel" data-flickity='{ "autoPlay": true, "wrapAround": true, "fade": true, "prevNextButtons": false }'>
   <div class="carousel-cell">
