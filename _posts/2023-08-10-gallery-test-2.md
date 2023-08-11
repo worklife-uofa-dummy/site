@@ -26,7 +26,7 @@ p {text-align: center;}
 }
 </style>
 <div class="text">
-A second prototype of the gallery featuring randomly ordered images and their respective text when hovered. Audio-on-hover has been removed. Refresh the page to get a new random ordering.
+A second technical test of the gallery using JavaScript to randomly order images and their respective quotes when hovered. Refresh the page to get a new random ordering.
 </div>
 <script type="text/javascript">
     array_img = new Array();
