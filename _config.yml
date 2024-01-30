@@ -28,7 +28,7 @@ twitter_username:
 github_username:
 
 # Build settings
-theme: "minimal-mistakes-jekyll"
+theme: "minima"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
