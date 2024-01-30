@@ -5,7 +5,7 @@
   border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
-  margin-left: 160px;
+  margin-left: 400px;
 
   // Positioning context for the mobile navigation icon
   position: relative;
@@ -109,7 +109,7 @@
 .site-footer {
   border-top: 1px solid $grey-color-light;
   padding: $spacing-unit 0;
-  margin-left: 160px;
+  margin-left: 400px;
 }
 
 .footer-heading {
@@ -180,12 +180,12 @@
 .page-content {
   padding: $spacing-unit 0;
   flex: 1;
-  margin-left: 160px;
+  margin-left: 400px;
 }
 
 .page-heading {
   @include relative-font-size(2);
-  margin-left: 160px;
+  margin-left: 400px;
 }
 
 .post-list-heading {
@@ -218,14 +218,14 @@
  */
 .post-header {
   margin-bottom: $spacing-unit;
-  margin-left: 160px;
+  margin-left: 400px;
 }
 
 .post-title {
   @include relative-font-size(2.625);
   letter-spacing: -1px;
   line-height: 1;
-  margin-left: 160px;
+  margin-left: 400px;
 
   @include media-query($on-laptop) {
     @include relative-font-size(2.25);
@@ -234,7 +234,7 @@
 
 .post-content {
   margin-bottom: $spacing-unit;
-  margin-left: 160px;
+  margin-left: 400px;
 
   h2 {
     @include relative-font-size(2);
